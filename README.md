@@ -8,6 +8,8 @@ bytecode.  An APK optimized by ReDex should be smaller and faster than its
 source.
 
 # Quick Start Guide
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fredex.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fredex?ref=badge_shield)
+
 
 ## Dependencies
 
@@ -159,3 +161,6 @@ likely to be addressed.
 # License
 
 ReDex is BSD-licensed.  We also provide an additional patent grant.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fredex.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fredex?ref=badge_large)
